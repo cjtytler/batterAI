@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{28AA9061-DE96-6378-3402-F3B15E7B31F3}") = "BatterAI", "Assembly-CSharp.csproj", "{D2EBCD21-A186-EFA9-87E1-2CAAE8D761EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2EBCD21-A186-EFA9-87E1-2CAAE8D761EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EBCD21-A186-EFA9-87E1-2CAAE8D761EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EBCD21-A186-EFA9-87E1-2CAAE8D761EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EBCD21-A186-EFA9-87E1-2CAAE8D761EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
